@@ -11,4 +11,4 @@ redirect-brightness.sh
   gets the volume buttons below the screen to function
   
 rotatefix.sh
-  allows the screen to use the gyro to automatically rotate, updates the touchpad for each orientation. useful in tablet mode.
+  allows the screen to use the gyro to automatically rotate, updates the touchscreen for each orientation. useful in tablet mode.
